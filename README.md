@@ -1,2 +1,2 @@
-# projet_realtimedata
+# Projet Real Time Data Streaming
 Projet individuel 
